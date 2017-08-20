@@ -1,0 +1,11 @@
+__pycache__/
+
+*token.txt
+
+db_password.txt
+
+log.txt
+errors.txt
+info.txt
+unexpected_log.txt
+
